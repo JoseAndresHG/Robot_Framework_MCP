@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "robot-framework-mcp": {
+      "command": "/Users/joseandres/PycharmProjects/Robot_IA/venv/bin/python",
+      "args": [
+        "/Users/joseandres/PycharmProjects/Robot_IA/start_mcp.py"
+      ],
+      "env": {
+        "PYTHONPATH": "/Users/joseandres/PycharmProjects/Robot_IA"
+      }
+    }
+  }
+}
